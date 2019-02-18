@@ -26,6 +26,5 @@ def last_evaluated_value
 end
 
 
-def pizza_party ( "Cheese", pizza_party)
-pizza_party = "pepperoni"
+def pizza_party (pizza_party="Cheese")
 end
