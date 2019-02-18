@@ -27,5 +27,5 @@ end
 
 
 def pizza_party ( "Cheese", pizza_party)
-  pizza_party=Cheese
+  pizza_party=pepperoni
 end
