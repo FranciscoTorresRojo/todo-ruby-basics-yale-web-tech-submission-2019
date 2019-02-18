@@ -1,6 +1,6 @@
 def division(num1,num2)
-num1 = 10
-num2 = 60
+num1 = 
+num2 = 6
 
 end
 
@@ -25,6 +25,7 @@ end
 
 def last_evaluated_value (last_evaluated_value)
   last_evaluated_value = "expert"
+end
 
 end
 
@@ -32,3 +33,4 @@ def pizza_party(pizza_party, cheese)
 pizza_party="cheese"
 pizza_party="pepperoni"
 end
+end 
