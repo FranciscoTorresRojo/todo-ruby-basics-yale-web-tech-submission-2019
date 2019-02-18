@@ -1,6 +1,7 @@
 def division(num1,num2)
 num1 = 42
 num2 = 7
+binding.pry
 end
 
 def assign_variable(value)
@@ -18,11 +19,13 @@ end
 
 def return_a_value(return_a_value)
   return_a_value = "Nice"
+  binding.pry
 
 end
 
 def last_evaluated_value(last_evaluated_value)
   last_evaluated_value = "expert"
+  binding.pry
 end
 
 def pizza_party(pizza_party, cheese)
