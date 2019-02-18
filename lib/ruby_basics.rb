@@ -28,8 +28,7 @@ def last_evaluated_value (last_evaluated_value)
 end
 
 
-def pizza_party(pizza_party, cheese)
-pizza_party="cheese"
-pizza_party="pepperoni"
+def pizza_party(cheese,pepperoni)
+pizza_party ="cheese"
+pizza_party ="pepperoni"
 end
-end 
