@@ -16,15 +16,15 @@ def greeting (greeting, name)
 name = "Bobby!"
 end
 
-def return_a_value
-  nice 
+def return_a_value(nice)
+  
 
 end
 
-def last_evaluated_value
+def last_evaluated_value(expert)
 
 end
 
-def pizza_party
+def pizza_party(pizza_party, cheese)
 
 end
